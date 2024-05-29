@@ -12,7 +12,7 @@ import jexer.menu.TMenu;
 public class TUIdemo extends TApplication {
     private static final int ABOUT_APP = 2000;
     private static final int CUST_INFO = 2010;
-    private Customer[] customers = new Customer[]{new Customer(1, "John Doe", "Checking", 200.0), new Customer(2, "Jane Smith", "Savings", 1500.5), new Customer(3, "Bob Johnson", "Checking", 50.75)};
+    private Customer[] customers = new Customer[]{new Customer(1, "John Doe", "Checking", 200.0), new Customer(2, "Tim Smith", "Savings", 1500.5), new Customer(3, "Maria Soley", "Checking", 50.75)};
 
     public static void main(String[] args) throws Exception {
         TUIdemo tdemo = new TUIdemo();
