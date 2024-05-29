@@ -45,9 +45,8 @@
   "keyToString": {
     "Application.TUIdemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ik512/IdeaProjects/TUIdemo",
+    "last_opened_file_path": "C:/Users/ik512/IdeaProjects/TUIdemo/lib/MyBank.jar",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -56,6 +55,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ik512\IdeaProjects\TUIdemo\lib" />
+      <recent name="C:\Users\ik512\IdeaProjects\TUIdemo\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ik512\IdeaProjects\TUIdemo\image" />
